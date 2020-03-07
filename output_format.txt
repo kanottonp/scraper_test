@@ -1,11 +1,11 @@
 ## Post Level ##
 
-{"source": "facebook", "category": "post", "origin_post_id": "2369315330028012", "post_url": "https://www.facebook.com/${page_name}/${post_id}", poster_name: "", title: "", "engagement": {"followers": "1,159,322", "shares": "52", "comments": "192", "reactions": "111111"}}
+{"source": "facebook", "comment_level": "post", "origin_post_id": "2369315330028012", "post_url": "https://www.facebook.com/${page_name}/${post_id}", poster_name: "", title: "", "engagement": {"followers": "1,159,322", "shares": "52", "comments": "192", "reactions": "111111"}}
 
 ## Comment Level ##
 
-{"source": "facebook", "category": "comment", "origin_post_id": "2369315330028012", "post_url": "https://www.facebook.com/${page_name}/${post_id}", poster_name: "", title: "", "engagement": {"reactions": "123123", replies: "123123"}}
+{"source": "facebook", "comment_level": "comment", "unique_comment_id": "https://www.facebook.com/${page_name}/${post_id}/${comment_id}", "origin_post_id": "2369315330028012", "post_url": "https://www.facebook.com/${page_name}/${post_id}", poster_name: "", title: "", "engagement": {"reactions": "123123", replies: "123123"}}
 
 ## Reply Level ##
 
-{"source": "facebook", "category": "reply", "origin_post_id": "2369315330028012", "post_url": "https://www.facebook.com/${page_name}/${post_id}", poster_name: "", title: "", "engagement": {"reactions": "123123"}}
+{"source": "facebook", "comment_level": "reply", "unique_comment_id": "https://www.facebook.com/${page_name}/${post_id}/${comment_id}", "origin_post_id": "2369315330028012", "post_url": "https://www.facebook.com/${page_name}/${post_id}", poster_name: "", title: "", "engagement": {"reactions": "123123"}}
