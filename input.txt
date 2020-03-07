@@ -1,0 +1,8 @@
+{"source": "facebook", "url": "https://www.facebook.com/jesusthink/posts/1601402970014916", "type": "posts"}
+{"source": "facebook", "url": "https://www.facebook.com/DramaAdd/", "type": "pages"}
+
+{"source": "instagram", "url": "https://www.instagram.com/p/B9Rcqrillre/", "type": "posts"}
+{"source": "instagram", "url": "https://www.instagram.com/wjmild/", "type": "pages"}
+
+{"source": "twitter", "url": "https://twitter.com/ammmijung/status/1234691198184390657", "type": "posts"}
+{"source": "twitter", "url": "https://twitter.com/Sawarinni", "type": "pages"}
